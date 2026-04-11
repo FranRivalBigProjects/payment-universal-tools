@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let a=+amount.value,t=+tax.value;res.innerText='Total: $'+(a+(a*t/100)).toFixed(2);}

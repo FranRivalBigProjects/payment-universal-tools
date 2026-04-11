@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let a=+attempts.value,s=+success.value;res.innerText='Success rate: '+(s/a*100).toFixed(2)+'%';}

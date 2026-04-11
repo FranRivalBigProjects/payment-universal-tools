@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){let a=+amount.value,m=+months.value;res.innerText='Total: $'+(a*m);}
